@@ -1,11 +1,9 @@
 # 🧭 Animated Sidebar
 
-A sleek, modern **Animated Sidebar Menu** built using **HTML, CSS, and
-Boxicons**.\
-It smoothly expands on hover, revealing navigation labels with a soft
-transition effect.
+A sleek, modern **Animated Sidebar Menu** built using **HTML, CSS, and Boxicons**.
+It smoothly expands on hover, revealing navigation labels with a soft transition effect.
 
-------------------------------------------------------------------------
+---
 
 ## 🌟 Features
 
@@ -14,7 +12,8 @@ transition effect.
 -   Icon-based navigation using **Boxicons**
 -   Lightweight and easy to customize
 
-------------------------------------------------------------------------
+---
+
 # 📁 Project Structure
 
 ```
@@ -26,7 +25,7 @@ Animated-Sidebar/
 └── README.md    # Project documentation
 ```
 
-------------------------------------------------------------------------
+---
 
 ## 🧩 Technologies Used
 
@@ -34,7 +33,7 @@ Animated-Sidebar/
 -   **CSS3** --- Styling & Animation
 -   **Boxicons** --- Icons for sidebar items
 
-------------------------------------------------------------------------
+---
 
 ## 🚀 How to Use
 
@@ -48,11 +47,11 @@ Animated-Sidebar/
    cd Animated-Sidebar
    ```
 
-3. Open **index.html** in your browser 💫  
+3.  Open **index.html** in your browser 💫  
 4.  Hover over the sidebar to see the expansion effect.
 5.  Customize links, colors, or icons as you wish!
 
-------------------------------------------------------------------------
+---
 
 ## 🎨 Customization Tips
 
@@ -61,8 +60,13 @@ Animated-Sidebar/
     expansion.
 -   Replace Boxicons with your preferred icon pack.
 
-------------------------------------------------------------------------
+---
 
-## ❤️ Author
 
-Designed & coded by **sagesakshi27** 💻
+## 🧑‍💻 Author
+
+> **Developer:**  **Sakshi Chavan**
+
+> **Github:** **[sagesakshi27](https://github.com/sagesakshi27)**
+
+---
